@@ -7,15 +7,15 @@
 This repository documents my progress in learning more about golang through Gophercices
 
 ## How to use
-    If you are interessed on some project you need to:
+If you are interessed on some project you need to:
 
-    1. **Clone** the repository:
+1. **Clone** the repository:
         ```bash
             git clone github.com/josevitorrodriguess/gophexercices
 
 
     
-    2. Read readme from project to lern how to run in your machine
+2. Read readme from project to lern how to run in your machine
 
 
 ## Quiz Game
