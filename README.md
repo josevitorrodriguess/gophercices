@@ -11,7 +11,7 @@ This repository documents my progress in learning more about golang through Goph
 
     1. **Clone** the repository:
         ```bash
-        git clone github.com/josevitorrodriguess/gophexercices
+            git clone github.com/josevitorrodriguess/gophexercices
 
 
     
