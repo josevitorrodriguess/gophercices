@@ -10,7 +10,7 @@ This repository documents my progress in learning more about golang through Goph
     If you are interessed on some project you need to:
 
     1. **Clone** the repository:
-    ```bash
+    ```
     git clone github.com/josevitorrodriguess/gophexercices
 
 
